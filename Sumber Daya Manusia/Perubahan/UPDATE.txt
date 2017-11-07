@@ -1,0 +1,5 @@
+V_Y_JenisPegawai
+V_HitungIndexPegawai
+V_KeluargaPegawai field NoUrut ditukar dengan NamaHubungan
+
+V_HitungIndexPegawai tambah field tglhitung
